@@ -1,0 +1,1 @@
+This line of text was written by PHP
