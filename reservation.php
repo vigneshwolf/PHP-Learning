@@ -80,7 +80,7 @@ $mail->isSMTP();
 $mail->Host = "smtp.gmail.com";
 $mail->SMTPAuth = true;                           
 $mail->Username = "vigneshwolf5@gmail.com";                 
-$mail->Password = "wldCft8456";                           
+$mail->Password = "Torture@123";                           
 $mail->SMTPSecure = "tls";                           
 $mail->Port = 587;                                   
 
